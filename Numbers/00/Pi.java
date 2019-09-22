@@ -2,8 +2,7 @@ import java.math.BigDecimal;
 import java.math.RoundingMode;
 import java.util.Scanner;
 
-class Pi
-{
+class Pi {
 	public static void main( String[] args ) {
 		Scanner in = new Scanner(System.in);
 		BigDecimal bd1, bd2;
