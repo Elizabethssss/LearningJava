@@ -1,15 +1,15 @@
 # LearningJava
 This repository constitutes a challenge in my road to learning Java and its source of inspiration is [proglib](https://proglib.io/p/project-list/) article. There are 90+ tasks for beginners and their implementation, which can be solved in any programming language. Projects are divided into several categories. Below you can see my realisations of these small projects.
 # Numbers
-[00_Find PI to the Nth Digit](https://github.com/Elizabethssss/TrainingJava/blob/master/00) - Enter a number and have the program generate PI up to that many decimal places. Keep a limit to how far the program will go.
+[**00_Find PI to the Nth Digit**](https://github.com/Elizabethssss/TrainingJava/blob/master/00) - Enter a number and have the program generate PI up to that many decimal places. Keep a limit to how far the program will go.
 
-[01_Fibonacci Sequence](https://github.com/Elizabethssss/TrainingJava/blob/master/01) - Enter a number and have the program generate the Fibonacci sequence to that number or to the Nth number (starts from 0).
+[**01_Fibonacci Sequence**](https://github.com/Elizabethssss/TrainingJava/blob/master/01) - Enter a number and have the program generate the Fibonacci sequence to that number or to the Nth number (starts from 0).
 
-[**Prime Factorization**](https://github.com/quitrk/LearningJS/blob/master/Numbers/02.%20Prime%20Factorization.js) - Have the user enter a number and find all Prime Factors (if there are any) and display them.
+[**Prime Factorization**] - Have the user enter a number and find all Prime Factors (if there are any) and display them.
 
-[**Next Prime Number**](https://github.com/quitrk/LearningJS/blob/master/Numbers/03.%20Next%20Prime%20Number.js) - Have the program find prime numbers until the user chooses to stop asking for the next one.
+[**Next Prime Number**] - Have the program find prime numbers until the user chooses to stop asking for the next one.
 
-[**Find Cost of Tile to Cover W x H Floor**](https://github.com/quitrk/LearningJS/blob/master/Numbers/04.%20Find%20Cost%20of%20Tile%20to%20Cover%20W%20x%20H%20Floor.js) - Calculate the total cost of tile it would take to cover a floor plan of width and height, using a cost entered by the user.
+[**Find Cost of Tile to Cover W x H Floor**] - Calculate the total cost of tile it would take to cover a floor plan of width and height, using a cost entered by the user.
 
 **Mortgage Calculator** - Calculate the monthly payments of a fixed term mortgage over given Nth terms at a given interest rate. Also figure out how long it will take the user to pay back the loan.
 
@@ -40,13 +40,13 @@ This repository constitutes a challenge in my road to learning Java and its sour
 Classic Algorithms
 -----------------
 
-[**Collatz Conjecture**](https://github.com/quitrk/LearningJS/blob/master/Classic%20Algorithms/00.%20Collatz%20Conjecture.js) - Start with a number *n > 1*. Find the number of steps it takes to reach one using the following process: If *n* is even, divide it by 2. If *n* is odd, multiply it by 3 and add 1.
+[**Collatz Conjecture**] - Start with a number *n > 1*. Find the number of steps it takes to reach one using the following process: If *n* is even, divide it by 2. If *n* is odd, multiply it by 3 and add 1.
 
 **Sorting** - Implement two types of sorting algorithms: Merge sort and bubble sort.
 
 **Closest pair problem** - The closest pair of points problem or closest pair problem is a problem of computational geometry: given *n* points in metric space, find a pair of points with the smallest distance between them.
 
-[**Sieve of Eratosthenes**](https://github.com/quitrk/LearningJS/blob/master/Classic%20Algorithms/03.%20Sieve%20of%20Eratosthenes.js) - The sieve of Eratosthenes is one of the most efficient ways to find all of the smaller primes (below 10 million or so).
+[**Sieve of Eratosthenes**] - The sieve of Eratosthenes is one of the most efficient ways to find all of the smaller primes (below 10 million or so).
 
 
 Graph
@@ -68,7 +68,7 @@ Data Structures
 Text
 ---------
 
-[**Reverse a String**](https://github.com/quitrk/LearningJS/blob/master/Text/00.%20Reverse%20a%20String.js) - Enter a string and the program will reverse it and print it out.
+[**Reverse a String**] - Enter a string and the program will reverse it and print it out.
 
 **Pig Latin** - Pig Latin is a game of alterations played on the English language game. To create the Pig Latin form of an English word the initial consonant sound is transposed to the end of the word and an ay is affixed (Ex.: "banana" would yield anana-bay). Read Wikipedia for more information on rules.
 
