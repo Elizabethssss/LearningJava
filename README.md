@@ -8,5 +8,5 @@ This repository constitutes a challenge in my road to learning Java and its sour
 
 
 # Source
-*[Proglib (Russian version)](https://proglib.io/p/project-list/)
-*[Karan Goel Project (English version)](https://github.com/karan/Projects)
+* [Proglib (Russian version)](https://proglib.io/p/project-list/)
+* [Karan Goel Project (English version)](https://github.com/karan/Projects)
