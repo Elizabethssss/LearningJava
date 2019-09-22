@@ -5,9 +5,9 @@ This repository constitutes a challenge in my road to learning Java and its sour
 
 [**01_Fibonacci Sequence**](https://github.com/Elizabethssss/LearningJava/tree/master/Numbers/01) - Enter a number and have the program generate the Fibonacci sequence to that number or to the Nth number (starts from 0).
 
-**Prime Factorization** - Have the user enter a number and find all Prime Factors (if there are any) and display them.
+[**02_Prime Factorization**](https://github.com/Elizabethssss/LearningJava/tree/master/Numbers/02) - Have the user enter a number and find all Prime Factors (if there are any) and display them.
 
-[**Next Prime Number**](https://github.com/Elizabethssss/LearningJava/tree/master/Numbers/03) - Have the program find prime numbers until the user chooses to stop asking for the next one.
+[**03_Next Prime Number**](https://github.com/Elizabethssss/LearningJava/tree/master/Numbers/03) - Have the program find prime numbers until the user chooses to stop asking for the next one.
 
 **Find Cost of Tile to Cover W x H Floor** - Calculate the total cost of tile it would take to cover a floor plan of width and height, using a cost entered by the user.
 
