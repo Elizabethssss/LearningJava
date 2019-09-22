@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="1d9c848f-7880-456e-b0bc-d9686df329d7" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Numbers/00/Pi.java" beforeDir="false" afterPath="$PROJECT_DIR$/Numbers/00/Pi.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,7 +16,7 @@
   <component name="ProjectId" id="1RBUBwc3EhTQWruKqETnaADgBr8" />
   <component name="PropertiesComponent">
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1569079180452" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../TrainingJava33/Testing" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -49,7 +48,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
