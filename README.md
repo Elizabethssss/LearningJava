@@ -3,13 +3,13 @@ This repository constitutes a challenge in my road to learning Java and its sour
 # Numbers
 [**00_Find PI to the Nth Digit**](https://github.com/Elizabethssss/LearningJava/blob/master/Numbers/00/Pi.java) - Enter a number and have the program generate PI up to that many decimal places. Keep a limit to how far the program will go.
 
-[**01_Fibonacci Sequence**](https://github.com/Elizabethssss/LearningJava/tree/master/Numbers/01) - Enter a number and have the program generate the Fibonacci sequence to that number or to the Nth number (starts from 0).
+[**01_Fibonacci Sequence**](https://github.com/Elizabethssss/LearningJava/tree/master/Numbers/01/Process.java) - Enter a number and have the program generate the Fibonacci sequence to that number or to the Nth number (starts from 0).
 
-[**02_Prime Factorization**](https://github.com/Elizabethssss/LearningJava/tree/master/Numbers/02) - Have the user enter a number and find all Prime Factors (if there are any) and display them.
+[**02_Prime Factorization**](https://github.com/Elizabethssss/LearningJava/tree/master/Numbers/02/Process.java) - Have the user enter a number and find all Prime Factors (if there are any) and display them.
 
-[**03_Next Prime Number**](https://github.com/Elizabethssss/LearningJava/tree/master/Numbers/03) - Have the program find prime numbers until the user chooses to stop asking for the next one.
+[**03_Next Prime Number**](https://github.com/Elizabethssss/LearningJava/tree/master/Numbers/03/Process.java) - Have the program find prime numbers until the user chooses to stop asking for the next one.
 
-**Find Cost of Tile to Cover W x H Floor** - Calculate the total cost of tile it would take to cover a floor plan of width and height, using a cost entered by the user.
+[**04_Find Cost of Tile to Cover W x H Floor**](https://github.com/Elizabethssss/LearningJava/blob/master/Numbers/04/Process.java) - Calculate the total cost of tile it would take to cover a floor plan of width and height, using a cost entered by the user.
 
 **Mortgage Calculator** - Calculate the monthly payments of a fixed term mortgage over given Nth terms at a given interest rate. Also figure out how long it will take the user to pay back the loan.
 
