@@ -19,15 +19,15 @@ This repository constitutes a challenge in my road to learning Java and its sour
 
 [**08_Calculator**](https://github.com/Elizabethssss/LearningJava/blob/master/Numbers/08/Process.java) - A simple calculator to do basic operators. Make it a scientific calculator for added complexity.
 
-**Unit Converter (temp, currency, volume, mass and more)** - Converts various units between one another. The user enters the type of unit being entered, the type of unit they want to convert to and then the value. The program will then make the conversion.
+[**09_Unit Converter (temp, currency, volume, mass and more)**](https://github.com/Elizabethssss/LearningJava/blob/master/Numbers/09/Converter.java) - Converts various units between one another. The user enters the type of unit being entered, the type of unit they want to convert to and then the value. The program will then make the conversion.
 
 [**10_Alarm Clock**](https://github.com/Elizabethssss/LearningJava/blob/master/Numbers/10/Process.java) - A simple clock where it plays a sound after X number of minutes/seconds or at a particular time.
 
-**Distance Between Two Cities** - Calculates the distance between two cities and allows the user to specify a unit of distance. This program may require finding coordinates for the cities like latitude and longitude.
+[**11_Distance Between Two Cities**](https://github.com/Elizabethssss/LearningJava/blob/master/Numbers/11/Process.java) - Calculates the distance between two cities and allows the user to specify a unit of distance. This program may require finding coordinates for the cities like latitude and longitude.
 
 **Credit Card Validator** - Takes in a credit card number from a common credit card vendor (Visa, MasterCard, American Express, Discoverer) and validates it to make sure that it is a valid number (look into how credit cards use a checksum).
 
-**Tax Calculator** - Asks the user to enter a cost and either a country or state tax. It then returns the tax plus the total cost with tax.
+[**13_Tax Calculator**](https://github.com/Elizabethssss/LearningJava/blob/master/Numbers/13/Tax.java) - Asks the user to enter a cost and either a country or state tax. It then returns the tax plus the total cost with tax.
 
 **Factorial Finder** - The Factorial of a positive integer, n, is defined as the product of the sequence n, n-1, n-2, ...1 and the factorial of zero, 0, is defined as being 1. Solve this using both loops and recursion.
 
